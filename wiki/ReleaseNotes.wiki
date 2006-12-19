@@ -1,8 +1,12 @@
 *0.6.7 on 00-Dec-06*
 {{{
 NEW: Skype integration
+NEW: Remember miniplayer location
+NEW: Shadow under window and animated minimize
 FIX: Small memory footprint
-FIX: Not stuck on loading
+FIX: Stuck on loading
+FIX: Starting Xfire on exit
+FIX: Pandora radio missplaced with IE7
 UPD: Settings displayed in external window
 }}}
 
