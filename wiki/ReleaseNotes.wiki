@@ -35,7 +35,7 @@ UPD: Proxy settings
 FIX: Better performance
 }}}
 
-*0.6.3  on 28-Sep-06
+*0.6.3  on 28-Sep-06*
 {{{
 NEW: Change stations from tray icon 
 FIX: More reliable song submition to Last.fm 
@@ -76,7 +76,7 @@ UPD: Better support for future changes in Pandora website
 UPD: More accurate informing about new version
 }}}
 
-*0.4.2 16-Jul-06*
+*0.4.2 on 16-Jul-06*
 {{{
 FIX: Update to reflect Pandora changes
 }}}
