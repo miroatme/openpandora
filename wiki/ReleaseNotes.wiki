@@ -3,6 +3,7 @@
 NEW: Skype integration
 NEW: Remember miniplayer location
 NEW: Shadow under window and animated minimize
+NEW: Customize title with radio station name - %r
 FIX: Small memory footprint
 FIX: Stuck on loading
 FIX: Starting Xfire on exit
