@@ -1,14 +1,17 @@
 *0.6.7 on 00-Dec-06*
 {{{
+NEW: Notification window that looks like single track view in Pandora
 NEW: Skype integration
+NEW: Scrolling title when too long
 NEW: Remember miniplayer location
 NEW: Shadow under window and animated minimize
 NEW: Customize title with radio station name - %r
 FIX: Small memory footprint
-FIX: Stuck on loading
-FIX: Starting Xfire on exit
-FIX: Pandora radio missplaced with IE7
+FIX: Stuck on loading bug
+FIX: Starting Xfire on exit bug
+FIX: Pandora radio missplaced with IE7 bug
 UPD: Settings displayed in external window
+UPD: Show about in window
 }}}
 
 *0.6.6 on 23-Oct-06*
