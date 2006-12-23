@@ -10,8 +10,10 @@ FIX: Small memory footprint
 FIX: Stuck on loading bug
 FIX: Starting Xfire on exit bug
 FIX: Pandora radio missplaced with IE7 bug
+FIX: Title not refreshing bug
 UPD: Settings displayed in external window
 UPD: Show about in window
+UPD: DoubleClick on title in MiniPlayer mode restores to normal window
 }}}
 
 *0.6.6 on 23-Oct-06*
