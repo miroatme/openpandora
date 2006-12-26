@@ -1,4 +1,4 @@
-*0.6.7 on 00-Dec-06*
+*0.6.7 beta2 on 26-Dec-06*
 {{{
 NEW: Notification window that looks like single track view in Pandora
 NEW: Skype integration
