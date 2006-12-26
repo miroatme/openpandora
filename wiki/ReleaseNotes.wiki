@@ -14,6 +14,7 @@ FIX: Title not refreshing bug
 UPD: Settings displayed in external window
 UPD: Show about in window
 UPD: DoubleClick on title in MiniPlayer mode restores to normal window
+UPD: Removed setting to submit skipped traks. Always submit if played more than 2 minutes
 }}}
 
 *0.6.6 on 23-Oct-06*
