@@ -1,3 +1,4 @@
+#labels Featured
 *0.6.7 on 12-Jan-06*
 {{{
 NEW: Notification window that looks like single track view in Pandora
