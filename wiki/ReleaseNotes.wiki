@@ -4,7 +4,7 @@
 NEW: Allow to disable new version message box
 FIX: Support back non XP
 FIX: Not reflecting pausing in title problem
-FIX: Showing windows in Alt+Tab problem
+FIX: Showing settings, about and notification windows with Alt+Tab problem
 UPD: Show settings window center to main window
 }}}
 
