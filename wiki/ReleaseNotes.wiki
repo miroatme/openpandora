@@ -1,4 +1,15 @@
 #labels Featured
+*0.6.8 (beta1) on 26-Jan-06*
+{{{
+NEW: Allow to disable new version message box
+FIX: Support back non XP
+FIX: Not reflecting pausing in title problem
+FIX: Showing windows in Alt+Tab problem
+UPD: Show settings window center to main window
+}}}
+
+
+
 *0.6.7 on 12-Jan-06*
 {{{
 NEW: Notification window that looks like single track view in Pandora
