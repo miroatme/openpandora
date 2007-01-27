@@ -5,7 +5,7 @@ NEW: Ctrl+Win+Enter: Display again song notification window
 NEW: Allow to disable new version popup
 FIX: Support back non XP machines
 FIX: Not reflecting pausing in title problem
-FIX: Settings, about and notification windows visible with Alt+Tab problem
+FIX: Settings, About and Notification windows visible with Alt+Tab problem
 UPD: Show settings window centered to main window
 }}}
 
