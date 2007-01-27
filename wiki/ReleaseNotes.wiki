@@ -1,11 +1,12 @@
 #labels Featured
-*0.6.8 (beta1) on 26-Jan-06*
+*0.6.8.4 (beta) on 27-Jan-06*
 {{{
-NEW: Allow to disable new version message box
-FIX: Support back non XP
+NEW: Ctrl+Win+Enter: Display again song notification window
+NEW: Allow to disable new version popup
+FIX: Support back non XP machines
 FIX: Not reflecting pausing in title problem
-FIX: Showing settings, about and notification windows with Alt+Tab problem
-UPD: Show settings window center to main window
+FIX: Ssettings, about and notification windows visible with Alt+Tab problem
+UPD: Show settings window centered to main window
 }}}
 
 
