@@ -1,5 +1,14 @@
 #labels Featured
-*0.6.8.4 (beta) on 27-Jan-06*
+*0.6.8.? (beta) on ??-???-07*
+{{{
+NEW: 
+FIX: Copy to clipboard without paused straing
+UPD: Copy to clipboard includes disc name
+}}}
+
+
+
+*0.6.8.4 (beta) on 27-Jan-07*
 {{{
 NEW: Ctrl+Win+Enter: Display again song notification window
 NEW: Allow to disable new version popup
@@ -11,7 +20,7 @@ UPD: Show settings window centered to main window
 
 
 
-*0.6.7 on 12-Jan-06*
+*0.6.7 on 12-Jan-07*
 {{{
 NEW: Notification window that looks like single track view in Pandora
 NEW: Skype integration
