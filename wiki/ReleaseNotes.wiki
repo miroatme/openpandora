@@ -1,21 +1,15 @@
 #labels Featured
-*0.6.8.? (beta) on ??-???-07*
-{{{
-NEW: 
-FIX: Copy to clipboard without paused straing
-UPD: Copy to clipboard includes disc name
-}}}
-
-
-
-*0.6.8.4 (beta) on 27-Jan-07*
+*0.6.8 on 24-Mar-07*
 {{{
 NEW: Ctrl+Win+Enter: Display again song notification window
 NEW: Allow to disable new version popup
 FIX: Support back non XP machines
 FIX: Not reflecting pausing in title problem
 FIX: Settings, About and Notification windows visible with Alt+Tab problem
+FIX: Copy to clipboard without paused straing
+FIX: Plaback control with global shortcuts and menu
 UPD: Show settings window centered to main window
+UPD: Copy to clipboard includes disc name
 }}}
 
 
