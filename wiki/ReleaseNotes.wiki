@@ -1,4 +1,23 @@
 #labels Featured
+*0.7.0 on 28-Feb-07*
+<br />
+<pre>   beta 1</pre>
+{{{
+FIX: All fields of registration window are visible
+FIX: Correctly write to Start/Programs for all languages
+UPD: MiniPlayer is removed
+UPD: Lyrics menu moved up from Tools and uses Google search
+NEW: Border was added to the window
+NEW: Bigger window that is resized based on current Pandora status
+NEW: Disabled opening of Pandora mini
+}}}
+
+*0.6.9 on 05-Dec-09*
+{{{
+FIX: Support for Pandora new layout
+}}}
+
+
 *0.6.8 on 24-Mar-07*
 {{{
 NEW: Ctrl+Win+Enter: Display again song notification window
