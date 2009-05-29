@@ -5,7 +5,8 @@
 {{{
 FIX: Removed %r from title formating
 UPD: Moved hosting to http://getopenpandora.appspot.com/
-NEW: User alerts when Pandora site is not reachable
+NEW: Alert user when Pandora has blocked his IP
+NEW: Alert user when Pandora site is not reachable
 }}}
 
 
