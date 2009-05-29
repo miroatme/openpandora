@@ -3,7 +3,9 @@
 <br />
 <pre>   beta 2</pre>
 {{{
+FIX: Removed %r from title formating
 UPD: Moved hosting to http://getopenpandora.appspot.com/
+NEW: User alerts when Pandora site is not reachable
 }}}
 
 
