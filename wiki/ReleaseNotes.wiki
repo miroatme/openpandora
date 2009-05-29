@@ -1,4 +1,13 @@
 #labels Featured
+*0.7.0 on 29-May-07*
+<br />
+<pre>   beta 2</pre>
+{{{
+UPD: Moved hosting to http://getopenpandora.appspot.com/
+}}}
+
+
+
 *0.7.0 on 28-Feb-07*
 <br />
 <pre>   beta 1</pre>
@@ -11,6 +20,7 @@ NEW: Border was added to the window
 NEW: Bigger window that is resized based on current Pandora status
 NEW: Disabled opening of Pandora mini
 }}}
+
 
 *0.6.9 on 05-Dec-09*
 {{{
