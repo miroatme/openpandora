@@ -1,5 +1,5 @@
 #labels Featured
-*0.7.0 on 29-May-07*
+*0.7.0 on 29-May-09*
 <br />
 <pre>   beta 2</pre>
 {{{
@@ -11,7 +11,7 @@ NEW: Alert user when Pandora site is not reachable
 
 
 
-*0.7.0 on 28-Feb-07*
+*0.7.0 on 28-Feb-09*
 <br />
 <pre>   beta 1</pre>
 {{{
