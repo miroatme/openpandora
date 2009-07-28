@@ -1,4 +1,15 @@
 #labels Featured
+*0.7.0 on 28-Jul-09*
+<br />
+<pre>   beta 6</pre>
+{{{
+FIX: Fixed Last.fm scrobblinng
+NEW: Support for Logitech G15 keyboard
+}}}
+
+
+
+
 *0.7.0 on 29-May-09*
 <br />
 <pre>   beta 2</pre>
